@@ -8,4 +8,6 @@ const axiosInstance = axios.create({
   },
 })
 
+
+// Language: typescript
 export default axiosInstance
